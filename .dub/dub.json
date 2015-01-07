@@ -1,0 +1,8 @@
+{
+	"dub": {
+		"cachedUpgrades": {
+			"msgpack-d": "~master"
+		},
+		"lastUpgrade": "2015-01-07T22:30:28.7028047"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "redispackdemo",
+	"targetType": "executable",
+	"description": "demonstration serializing D objects using msgpack and redis",
+	"authors": ["Laeeth Isharc"],
+	"sourcePaths": ["source/","tinyredis/tinyredis/"],
+	"buildOptions": ["releaseMode"],
+	"dependencies": {
+		"msgpack-d": "~master",
+    	},
+	
+}
